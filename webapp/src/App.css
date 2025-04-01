@@ -1,0 +1,242 @@
+header{
+  color: rgb(192, 192, 192);
+  
+  }
+  body{
+  background-color: #ac540cd0;
+  }
+  h1{
+  text-decoration: #000000;
+  }
+  .texto-destacado {
+  width: 100%;
+  color: black;
+  font-size: 24px;
+  font-weight: bold;
+  }
+  header {
+  position:unset;
+  top: 0;
+  width: 140.5%;
+  background: rgb(0, 0, 0);
+  box-shadow: 0 4px 6px rgba(110, 51, 2, 0.1);
+  padding: 10px 0;
+  }
+  nav {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  gap: 70px;
+  }
+  
+  nav a {
+  display: inline-block;
+  padding: 10px 15px;
+  text-decoration: none;
+  color: white;
+  font-size: 16px;
+  transition: transform 0.3s ease-in-out;
+  }
+  
+  nav a:hover {
+  transform: scale(1.2) translateY(-3px); /* Crece y sube suavemente */
+  }
+  
+  html {
+  scroll-behavior: smooth;
+  }
+  
+  footer{
+  
+  width: 133.82%;
+  min-height:30x;
+  padding: 30px;
+  color: rgb(255, 255, 255);
+  background-color: #000000;
+  font-weight: bold;
+  
+  }
+  .menu-item {
+  display: flex;
+  justify-content: space-between;
+  width: 400px; /* Ajusta según necesidad */
+  }
+  .imagen-pequena {
+  width:700px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  }
+  .img-espresso{
+  width: 233px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  }
+  .img-americano{
+  width: 233px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  }
+  .img-capuccino{
+  width: 233px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  }
+  .img-latte{
+  width: 233px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  }
+  .img-mocha{
+  width: 233px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  }
+  .img-pasteldechocolate{
+  width: 233px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  }
+  .Cheesecake-fresa{
+  width: 233px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  }
+  .croissant-mantequilla{
+  width: 233px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  }
+  .Galletas{
+  width: 233px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  }
+  .pay-limon{
+  width: 233px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  }
+  .img-cafeycaramelo{
+  width: 233px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  }
+  .img-v{
+  width: 200px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  }
+  .img-chocolate{
+  width: 233px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  
+  }
+  .img-fresa{
+  width: 233px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  }
+  .img-nuez{
+  width: 233px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  }
+  .img-oreo{
+  width: 233px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  }
+  .img-mazapan{
+  width: 233px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  }
+  
+  .img-logo{
+  display: block;
+  height: 100px;
+  align-items: center;
+  margin-left: 500px;
+  }
+  .img-final{
+  display: block;
+  height: 100px;
+  align-items: center;
+  margin-left: 500px;
+  }
+  
+  .button-scroll-to-top {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: #000;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  cursor: pointer;
+  font-size: 20px;
+  border-radius: 50%;
+  transition: transform 0.5s ease-in-out;
+  }
+  
+  .button-scroll-to-top:hover {
+  transform: scale(1.2);
+  }
+  
+  
+  .button-scroll-to-top:active {
+  transform: scale(1);
+  }
+  .text-lg{
+  color: #000;
+  
+  }
+  .container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+  }
+  
+  .app-container {
+  max-width: 900px;
+  margin: 0 auto;
+  text-align: center;
+  }
+  .order-btn {
+  background-color: #fffff2;
+  color: rgb(0, 0, 0);
+  border: none;
+  padding: 3px 6px;
+  cursor: pointer;
+  border-radius: 3px;
+  font-size: 12px;
+  width: auto;
+  height: 25px;
+  }
+  
+  
+  .order-btn:hover {
+  background-color: #acacac;
+  }
+  .menu-item{
+  color: #000;
+  }
